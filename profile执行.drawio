@@ -400,6 +400,12 @@
         <mxCell id="fG1zE4ePjEJD4JEUIgiC-49" parent="fG1zE4ePjEJD4JEUIgiC-37" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+UpdateExpirationDate(type): type" vertex="1">
           <mxGeometry height="26" width="250" y="216" as="geometry" />
         </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="profile" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="车卡服务" vertex="1">
+          <mxGeometry height="60" width="120" x="970" y="1670" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
