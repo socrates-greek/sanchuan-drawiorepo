@@ -23,7 +23,7 @@
           <mxGeometry height="140" width="440" x="470" y="190" as="geometry" />
         </mxCell>
         <mxCell id="NfvWTxL5EyEkpnNqPKS2-10" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="BindProfileReq" vertex="1">
-          <mxGeometry height="86" width="290" x="60" y="456" as="geometry" />
+          <mxGeometry height="86" width="290" x="50" y="456" as="geometry" />
         </mxCell>
         <mxCell id="NfvWTxL5EyEkpnNqPKS2-11" parent="NfvWTxL5EyEkpnNqPKS2-10" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ relations: map[string]string&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="26" width="290" y="26" as="geometry" />
@@ -196,7 +196,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NfvWTxL5EyEkpnNqPKS2-85" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="profileFeature" vertex="1">
-          <mxGeometry height="86" width="290" x="60" y="570" as="geometry" />
+          <mxGeometry height="86" width="290" x="50" y="570" as="geometry" />
         </mxCell>
         <mxCell id="NfvWTxL5EyEkpnNqPKS2-86" parent="NfvWTxL5EyEkpnNqPKS2-85" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ relations:map[string]&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;[]*&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-weight: 700; text-align: center;&quot;&gt;Feature&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="26" width="290" y="26" as="geometry" />
