@@ -546,7 +546,7 @@
           <mxGeometry height="60" width="120" x="1616" y="1556" as="geometry" />
         </mxCell>
         <mxCell id="fG1zE4ePjEJD4JEUIgiC-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="车卡服务" vertex="1">
-          <mxGeometry height="60" width="120" x="1390" y="1556" as="geometry" />
+          <mxGeometry height="60" width="120" x="1430" y="1560" as="geometry" />
         </mxCell>
         <mxCell id="fG1zE4ePjEJD4JEUIgiC-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="rule" vertex="1">
           <mxGeometry height="60" width="120" x="1815" y="1556" as="geometry" />
@@ -571,7 +571,7 @@
           <mxGeometry height="80" width="10" x="1671" y="1646" as="geometry" />
         </mxCell>
         <mxCell id="fG1zE4ePjEJD4JEUIgiC-114" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="65" width="10" x="1434" y="1760" as="geometry" />
+          <mxGeometry height="65" width="10" x="1490" y="1760" as="geometry" />
         </mxCell>
         <mxCell id="fG1zE4ePjEJD4JEUIgiC-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="mq" vertex="1">
           <mxGeometry height="60" width="100" x="2340" y="1556" as="geometry" />
@@ -651,7 +651,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fG1zE4ePjEJD4JEUIgiC-144" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="80" width="10" x="1444" y="2266" as="geometry" />
+          <mxGeometry height="80" width="10" x="1485" y="2270" as="geometry" />
         </mxCell>
         <mxCell id="fG1zE4ePjEJD4JEUIgiC-145" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" target="fG1zE4ePjEJD4JEUIgiC-144" value="返回给车卡相关信息">
           <mxGeometry relative="1" as="geometry">
