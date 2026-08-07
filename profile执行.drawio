@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="m5ajdhxgi1vLZFuMpTvK">
-    <mxGraphModel dx="3139" dy="2296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2111" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="NfvWTxL5EyEkpnNqPKS2-6" parent="NfvWTxL5EyEkpnNqPKS2-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ convertTo&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;PackageQueueReq&lt;/span&gt;():&amp;nbsp;&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;PackageQueueReq&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="350" y="86" as="geometry" />
         </mxCell>
-        <mxCell id="NfvWTxL5EyEkpnNqPKS2-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;usecase&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ProfileExecuteInterface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ domainSvc:&amp;nbsp;&lt;b style=&quot;text-align: center;&quot;&gt;ProfileExecuteService&lt;/b&gt;&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ExecutePackage(ctx,&lt;span style=&quot;font-weight: 700; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;exeutePackageReq&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;): error&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ BindProfiles(ctx,&amp;nbsp;&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;BindProfileReq&lt;/span&gt;): error&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ReBindProfiles(ctx, &lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;BindProfileReq&lt;/span&gt;): error&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ UpdateProfileInfo(ctx, &lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;BindProfileReq&lt;/span&gt;): error&lt;/p&gt;" vertex="1">
+        <mxCell id="NfvWTxL5EyEkpnNqPKS2-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;usecase&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ProfileExecuteInterface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ domainSvc:&amp;nbsp;&lt;b style=&quot;text-align: center;&quot;&gt;ProfileExecuteService&lt;/b&gt;&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ExecutePackage(ctx,&lt;span style=&quot;font-weight: 700; text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;exeutePackageReq&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;): error&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ BindProfiles(ctx,&amp;nbsp;&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;BindProfileReq&lt;/span&gt;): error&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ReBindProfiles(ctx, &lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;BindProfileReq&lt;/span&gt;): error&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ UpdateProfileInfo(ctx,&amp;nbsp;&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;UpdateProfileInfoReq&lt;/span&gt;): error&lt;/p&gt;" vertex="1">
           <mxGeometry height="210" width="470" x="470" y="190" as="geometry" />
         </mxCell>
         <mxCell id="NfvWTxL5EyEkpnNqPKS2-10" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="BindProfileReq" vertex="1">
@@ -303,6 +303,30 @@
           <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="UpdateProfileInfoReq" vertex="1">
+          <mxGeometry height="86" width="290" x="610" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-2" parent="fG1zE4ePjEJD4JEUIgiC-1" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ relations: map[string]string&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="290" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-3" parent="fG1zE4ePjEJD4JEUIgiC-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="290" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-4" parent="fG1zE4ePjEJD4JEUIgiC-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ convertTo&lt;b&gt;ProfileFeature&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(type):&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;profileFeature&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="290" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="profileFeature" vertex="1">
+          <mxGeometry height="86" width="290" x="920" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-6" parent="fG1zE4ePjEJD4JEUIgiC-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ relations:map[string]&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;[]*&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-weight: 700; text-align: center;&quot;&gt;Feature&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="26" width="290" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-7" parent="fG1zE4ePjEJD4JEUIgiC-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="290" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-8" parent="fG1zE4ePjEJD4JEUIgiC-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ method(type): type" vertex="1">
+          <mxGeometry height="26" width="290" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
