@@ -401,10 +401,13 @@
           <mxGeometry height="26" width="250" y="216" as="geometry" />
         </mxCell>
         <mxCell id="fG1zE4ePjEJD4JEUIgiC-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="profile" vertex="1">
-          <mxGeometry height="60" width="120" x="670" y="1740" as="geometry" />
+          <mxGeometry height="60" width="120" x="460" y="1820" as="geometry" />
         </mxCell>
         <mxCell id="fG1zE4ePjEJD4JEUIgiC-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="车卡服务" vertex="1">
-          <mxGeometry height="60" width="120" x="970" y="1670" as="geometry" />
+          <mxGeometry height="60" width="120" x="460" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="fG1zE4ePjEJD4JEUIgiC-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="rule" vertex="1">
+          <mxGeometry height="60" width="120" x="960" y="1850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
